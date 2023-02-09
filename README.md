@@ -1,2 +1,1 @@
-# TJC Event details page
 
